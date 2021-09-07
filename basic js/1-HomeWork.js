@@ -21,6 +21,8 @@
 
  */
 
+var MarkAge = 21;
+/// just test
 var MarkData = {
 	age: 21
 }
